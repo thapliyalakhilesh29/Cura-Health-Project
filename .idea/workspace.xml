@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a1697e-09d2-4d66-8034-2ee1937f9d23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cura-Health-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/homePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageObjects/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObjects/homePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObjects/homePage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +41,7 @@
     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
   <component name="SharedIndexes">
